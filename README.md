@@ -29,22 +29,38 @@ Students can create profiles, showcase their skills and interests, make connecti
 ---
 
 ## 📂 Project Structure
-Student-Connect-Platform/
-│── client/ # Frontend (React, Tailwind)
-│── server/ # Backend (Express, MongoDB)
-│── models/ # Database models
-│── routes/ # API routes
-│── public/ # Static files
-│── README.md # Project documentation
+STUDENT-HUB/
+│── 📦 BACKEND/ # Backend (Node.js + Express + MongoDB)
+│ │── 📁 node_modules/
+│ │── 📁 src/ # Backend source code
+│ │── 📄 .gitignore
+│ │── 🔐 .env # Environment variables
+│ │── 📄 package.json # Backend dependencies
+│ │── 📄 package-lock.json
+│
+│── 🎨 STUDENTHUB/ # Frontend (React + Vite + Tailwind)
+│ │── 📁 node_modules/
+│ │── 📁 public/ # Static assets
+│ │── 📁 src/ # Frontend source code
+│ │── 📄 .gitignore
+│ │── ⚙️ eslint.config.js
+│ │── 🌐 index.html
+│ │── 📄 package.json # Frontend dependencies
+│ │── 📄 package-lock.json
+│ │── ⚙️ postcss.config.js
+│ │── 🎨 tailwind.config.js
+│ │── ⚡ vite.config.js # Vite configuration
+│
+│── 📘 README.md # Documentation
 
-## 📸 Screenshots (Add Later)
+## 📸 Screenshots 
 
 You can add screenshots or a demo video link here to showcase your project.
 
 ## 👩‍💻 Author
 
 Saijdeep Kaur
-📧 [Your Email]
+📧 saijdeepkaur@gmail.com
 🌐 [Portfolio/LinkedIn/GitHub]
 
 ⭐ If you like this project, don’t forget to star the repo!
