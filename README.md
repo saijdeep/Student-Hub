@@ -29,29 +29,30 @@ Students can create profiles, showcase their skills and interests, make connecti
 ---
 
 ## 📂 Project Structure
+```text
 STUDENT-HUB/
-│── 📦 BACKEND/
-│ ├── 📁 node_modules/
-│ ├── 📁 src/ # Backend source code
-│ ├── 📄 .gitignore
-│ ├── 🔐 .env # Environment variables
-│ ├── 📄 package.json # Backend dependencies
-│ └── 📄 package-lock.json
+│── 📦 BACKEND/  
+│   ├── 📁 node_modules/  
+│   ├── 📁 src/                  # Backend source code  
+│   ├── 📄 .gitignore  
+│   ├── 🔐 .env                  # Environment variables  
+│   ├── 📄 package.json          # Backend dependencies  
+│   └── 📄 package-lock.json  
 
-│── 🎨 STUDENTHUB/
-│ ├── 📁 node_modules/
-│ ├── 📁 public/ # Static assets
-│ ├── 📁 src/ # Frontend source code
-│ ├── 📄 .gitignore
-│ ├── ⚙️ eslint.config.js
-│ ├── 🌐 index.html
-│ ├── 📄 package.json # Frontend dependencies
-│ ├── 📄 package-lock.json
-│ ├── ⚙️ postcss.config.js
-│ ├── 🎨 tailwind.config.js
-│ └── ⚡ vite.config.js # Vite configuration
+│── 🎨 STUDENTHUB/  
+│   ├── 📁 node_modules/  
+│   ├── 📁 public/               # Static assets  
+│   ├── 📁 src/                  # Frontend source code  
+│   ├── 📄 .gitignore  
+│   ├── ⚙️ eslint.config.js  
+│   ├── 🌐 index.html  
+│   ├── 📄 package.json          # Frontend dependencies  
+│   ├── 📄 package-lock.json  
+│   ├── ⚙️ postcss.config.js  
+│   ├── 🎨 tailwind.config.js  
+│   └── ⚡ vite.config.js        # Vite configuration  
 
-│── 📘 README.md # Documentation
+│── 📘 README.md                 # Documentation  
 
 ## 📸 Screenshots 
 
