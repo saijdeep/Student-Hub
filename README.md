@@ -57,12 +57,14 @@ STUDENT-HUB/
 
 ## 📸 Screenshots 
 
+
 You can add screenshots or a demo video link here to showcase your project.
 
 ## 👩‍💻 Author
 
 Saijdeep Kaur
 📧 saijdeepkaur@gmail.com
-🌐 [Portfolio/LinkedIn/GitHub]
+🌐 [LinkedIn](www.linkedin.com/in/saijdeep-kaur)
+
 
 ⭐ If you like this project, don’t forget to star the repo!
