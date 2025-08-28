@@ -52,7 +52,7 @@ STUDENT-HUB/
 │   ├── 🎨 tailwind.config.js  
 │   └── ⚡ vite.config.js        # Vite configuration  
 
-│── 📘 README.md                 # Documentation  
+│── 📘 README.md                 # Documentation  ```
 
 ## 📸 Screenshots 
 
